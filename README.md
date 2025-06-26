@@ -14,7 +14,7 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 
 | Problema | Nome                                   | Dificuldade |
 |----------|----------------------------------------|-------------|
-|          |                                        | Médio       |
+|  [912](https://leetcode.com/problems/sort-an-array/)         |    Sort an Array                                    | Médio       |
 |          |                                        | Difícil     |
 |          |                                        | Médio       |
 |          |                                        | Médio    |
