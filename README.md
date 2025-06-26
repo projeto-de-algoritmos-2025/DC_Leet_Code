@@ -16,7 +16,7 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 |----------|----------------------------------------|-------------|
 |  [912](https://leetcode.com/problems/sort-an-array/)         |    Sort an Array                                    | Médio       |
 |  [23](https://leetcode.com/problems/merge-k-sorted-lists/description/)        |     Merge k Sorted Lists                                   | Difícil     |
-|          |                                        | Médio       |
+|  [218](https://leetcode.com/problems/the-skyline-problem/)        |    The Skyline Problem                                    | Difícil       |
 |          |                                        | Médio    |
 |          |                                        | Difícil    |
 |          |                                        | Difícil    |
@@ -30,6 +30,9 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 
 ### Questão Merge k Sorted Lists
 <img src="./Images/mergeKSortedLists.png" alt="Q1" width="600"/>
+
+### Questão The Skyline Problem
+<img src="./Images/skylineProblem.png" alt="Q1" width="600"/>
 
 ## Instalação 
 **Linguagem**: Python<br>
