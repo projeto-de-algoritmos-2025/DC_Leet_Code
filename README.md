@@ -15,7 +15,7 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 | Problema | Nome                                   | Dificuldade |
 |----------|----------------------------------------|-------------|
 |  [912](https://leetcode.com/problems/sort-an-array/)         |    Sort an Array                                    | Médio       |
-|          |                                        | Difícil     |
+|  [23](https://leetcode.com/problems/merge-k-sorted-lists/description/)        |     Merge k Sorted Lists                                   | Difícil     |
 |          |                                        | Médio       |
 |          |                                        | Médio    |
 |          |                                        | Difícil    |
@@ -28,7 +28,8 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 ### Questão Sort an Array
 <img src="./Images/sortanArray.png" alt="Q1" width="600"/>
 
-
+### Questão Merge k Sorted Lists
+<img src="./Images/sortanArray.png" alt="Q1" width="600"/>
 
 ## Instalação 
 **Linguagem**: Python<br>
