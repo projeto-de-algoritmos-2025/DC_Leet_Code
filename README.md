@@ -29,7 +29,7 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 <img src="./Images/sortanArray.png" alt="Q1" width="600"/>
 
 ### Questão Merge k Sorted Lists
-<img src="./Images/sortanArray.png" alt="Q1" width="600"/>
+<img src="./Images/mergeKSortedLists.png" alt="Q1" width="600"/>
 
 ## Instalação 
 **Linguagem**: Python<br>
