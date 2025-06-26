@@ -25,6 +25,8 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 
 ## Screenshots
  
+### Questão Sort an Array
+<img src="./Images/sortanArray.png" alt="Q1" width="600"/>
 
 
 
