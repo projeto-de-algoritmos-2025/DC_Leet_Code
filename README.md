@@ -17,9 +17,9 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 |  [912](https://leetcode.com/problems/sort-an-array/)         |    Sort an Array                                    | Médio       |
 |  [23](https://leetcode.com/problems/merge-k-sorted-lists/description/)        |     Merge k Sorted Lists                                   | Difícil     |
 |  [218](https://leetcode.com/problems/the-skyline-problem/)        |    The Skyline Problem                                    | Difícil       |
-|          |                                        | Médio    |
-|          |                                        | Difícil    |
-|          |                                        | Difícil    |
+|   [1088](https://judge.beecrowd.com/pt/problems/view/1088)      |       Bolhas e Baldes                                 | Difícil   |
+|    [493](https://leetcode.com/problems/reverse-pairs/description/)     |     Reverse Pairs                                   | Difícil    |
+       
 
 
 
@@ -36,6 +36,7 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 
 ## Instalação 
 **Linguagem**: Python<br>
+**Linguagem**: C<br>
 
 
 ## Link
