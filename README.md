@@ -47,6 +47,4 @@ Foram realizadas 4 questões do leetcode e uma questão do Beecrowd sobre a abor
 
 ## Link
 
-Link do vídeo do youtube: 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6OYVPIBYQZQ?si=cbn4UfxNVIcITqsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Link do vídeo do youtube:  [Vídeo das questões](https://www.youtube.com/embed/6OYVPIBYQZQ?si=cbn4UfxNVIcITqsB)
