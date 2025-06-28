@@ -10,7 +10,7 @@
 | 19/0028963  |  Guilherme Brito de Souza |
 
 ## Sobre 
-Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
+Foram realizadas 4 questões do leetcode e uma questão do Beecrowd sobre a abordagem Dividir e Conquistar.
 
 | Problema | Nome                                   | Dificuldade |
 |----------|----------------------------------------|-------------|
@@ -33,6 +33,12 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 
 ### Questão The Skyline Problem
 <img src="./Images/skylineProblem.png" alt="Q1" width="600"/>
+
+### Questão Bolhas e Baldes
+<img src="./Images/bolhas_baldes.png " alt="Q1" width="600"/>
+
+### Questão Reverse Pairs
+<img src="./Images/reverse_pairs.png" alt="Q1" width="600"/>
 
 ## Instalação 
 **Linguagem**: Python<br>
