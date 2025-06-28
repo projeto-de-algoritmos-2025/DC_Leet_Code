@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h> // Para strdup, embora não seja usado na solução final
+#include <string.h> 
 
-long long *temp_arr; // Global para o merge sort
+long long *temp_arr; 
 
 long long merge_and_count_inversions(int arr[], int left, int mid, int right) {
     long long inversions = 0;
@@ -61,7 +61,7 @@ int main() {
         long long total_inversions = count_inversions_merge_sort(arr, 0, N - 1);
 
         if (total_inversions % 2 == 0) {
-            printf("Carlos\n"); // APENAS esta linha de saída para um caso
+            printf("Carlos\n"); 
         } else {
             printf("Marcelo\n"); 
         }
